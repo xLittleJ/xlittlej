@@ -1,10 +1,12 @@
-<a href="https://komarev.com/ghpvc/?username=xLittleJ">
-  <img align="right" src="https://komarev.com/ghpvc/?username=xLittleJ&label=Visitors&color=blue&style=flat-square&abbreviated=true" alt="Profile visitors" />
-</a>
+[![Header](/header.png)](https://github.com/xLittleJ)
 
-# Hey there! 👋 I'm Jay
+<br />
 
 I'm a **Software Engineer** from the UK, passionate about coding, building projects, and exploring new tech. Welcome to my GitHub!
+
+<a href="https://komarev.com/ghpvc/?username=xLittleJ">
+  <img align="right" src="https://komarev.com/ghpvc/?username=xLittleJ&label=Visitors&color=blue&style=for-the-badge&abbreviated=true" alt="Profile visitors" />
+</a>
 
 ## 🚀 About Me
 - 🌍 Based in the United Kingdom
