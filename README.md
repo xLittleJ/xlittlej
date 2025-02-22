@@ -22,55 +22,21 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
 
 ## 💻 My Skills
 ### Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  </a>
-</p>
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net) [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS)
 
 ### Frameworks
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  </a>
-</p>
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org) [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org) [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com)
 
 ### Tools
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-</p>
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ### Databases
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+
+## 📊 My Stats
 <p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xLittleJ&show_icons=true&theme=transparent" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLittleJ&layout=compact&theme=transparent" />&nbsp;&nbsp;
 </p>
 
 ## ✉️ Contact Me
@@ -82,3 +48,4 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
+
