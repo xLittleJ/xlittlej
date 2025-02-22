@@ -1,4 +1,4 @@
-[![Header](/header.png)](https://github.com/xLittleJ)
+[![Header](/assets/header.png)](https://github.com/xLittleJ)
 
 <br />
 
