@@ -8,6 +8,16 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
   <img align="right" src="https://komarev.com/ghpvc/?username=xLittleJ&label=Visitors&color=blue&style=for-the-badge&abbreviated=true" alt="Profile visitors" />
 </a>
 
+<details>
+  <summary>GitHub Stats 📊</summary>
+  <p align="left">
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xLittleJ&show_icons=true&theme=blueberry&hide_border=true" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLittleJ&layout=compact&theme=blueberry&hide_border=true" />&nbsp;&nbsp;
+  </p>
+</details>
+
+<br />
+
 ## 🚀 About Me
 - 🌍 Based in the United Kingdom
 - 💻 Software Engineer by day, tinkerer by night
@@ -33,11 +43,6 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
 ### Databases
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 
-## 📊 My Stats
-<p align="left">
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xLittleJ&show_icons=true&theme=transparent" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLittleJ&layout=compact&theme=transparent" />&nbsp;&nbsp;
-</p>
 
 ## ✉️ Contact Me
 <p align="left">
