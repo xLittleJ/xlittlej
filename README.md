@@ -25,7 +25,7 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
 
 ## 🌐 My Links
 <p>
-  <a href="https://xlittlej.xyz">
+  <a href="https://xlittlej.uk">
     <img src="https://img.shields.io/badge/My%20Website-FFA62E?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 </p>
@@ -46,7 +46,7 @@ I'm a **Software Engineer** from the UK, passionate about coding, building proje
 
 ## ✉️ Contact Me
 <p>
-  <a href="https://xlittlej.xyz/contact">
+  <a href="https://xlittlej.uk/contact">
     <img src="https://img.shields.io/badge/Contact%20Form-FFA62E?style=for-the-badge" alt="Website form"/>
   </a>
   <a href="https://discord.com/users/1026159924662763632">
